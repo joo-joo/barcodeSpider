@@ -1,2 +1,3 @@
 # spider
-获取barcodeLookup、中国商品信息平台条码信息
+使用colly框架爬取barcodeLookup以及中国商品信息平台网站的条码信息
+并用excel作为存储载体记录下来。
